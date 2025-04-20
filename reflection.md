@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gianluca Zurlo
+Sudent Email:  gzurlo@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+This assignment deepened my understanding of web scraping with Playwright, particularly in navigating DOM structures and extracting structured data using CSS selectors. I struggled initially with dynamic page sections (e.g., locating menu items relative to their category headers), but debugging with print() statements helped me map the DOM hierarchy. I need more practice writing robust CSS selectors for varied website layouts and handling edge cases (e.g., missing descriptions). Next, I’ll explore Playwright’s documentation to master traversal methods like evaluate() and query_selector_all().
